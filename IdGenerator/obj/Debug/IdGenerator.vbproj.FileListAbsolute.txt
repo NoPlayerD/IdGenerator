@@ -1,0 +1,14 @@
+c:\users\noplayer\documents\visual studio 2015\Projects\IdGenerator\IdGenerator\bin\Debug\IdGenerator.exe.config
+c:\users\noplayer\documents\visual studio 2015\Projects\IdGenerator\IdGenerator\bin\Debug\IdGenerator.exe.manifest
+c:\users\noplayer\documents\visual studio 2015\Projects\IdGenerator\IdGenerator\bin\Debug\IdGenerator.application
+c:\users\noplayer\documents\visual studio 2015\Projects\IdGenerator\IdGenerator\bin\Debug\IdGenerator.exe
+c:\users\noplayer\documents\visual studio 2015\Projects\IdGenerator\IdGenerator\bin\Debug\IdGenerator.pdb
+c:\users\noplayer\documents\visual studio 2015\Projects\IdGenerator\IdGenerator\bin\Debug\IdGenerator.xml
+c:\users\noplayer\documents\visual studio 2015\Projects\IdGenerator\IdGenerator\obj\Debug\IdGenerator.Form1.resources
+c:\users\noplayer\documents\visual studio 2015\Projects\IdGenerator\IdGenerator\obj\Debug\IdGenerator.Resources.resources
+c:\users\noplayer\documents\visual studio 2015\Projects\IdGenerator\IdGenerator\obj\Debug\IdGenerator.vbproj.GenerateResource.Cache
+c:\users\noplayer\documents\visual studio 2015\Projects\IdGenerator\IdGenerator\obj\Debug\IdGenerator.exe.manifest
+c:\users\noplayer\documents\visual studio 2015\Projects\IdGenerator\IdGenerator\obj\Debug\IdGenerator.application
+c:\users\noplayer\documents\visual studio 2015\Projects\IdGenerator\IdGenerator\obj\Debug\IdGenerator.exe
+c:\users\noplayer\documents\visual studio 2015\Projects\IdGenerator\IdGenerator\obj\Debug\IdGenerator.xml
+c:\users\noplayer\documents\visual studio 2015\Projects\IdGenerator\IdGenerator\obj\Debug\IdGenerator.pdb
